@@ -1,0 +1,27 @@
+Book #: 25
+
+Category: Web Design
+
+Title: Web Design with HTML, CSS, JavaScript and jQuery Set
+
+Author: Jon Duckett 
+
+Description:
+
+
+A two-book set for web designers and front-end developers
+This two-book set combines the titles HTML & CSS: Designing and Building Web Sites and JavaScript & jQuery: Interactive Front-End Development. Together these two books form an ideal platform for anyone who wants to master HTML and CSS before stepping up to JavaScript and jQuery.
+
+HTML & CSS covers structure, text, links, images, tables, forms, useful options, adding style with CSS, fonts, colors, thinking in boxes, styling lists and tables, layouts, grids, and even SEO, Google analytics, ftp, and HTML5. JavaScript & jQuery offers an excellent combined introduction to these two technologies using a clear and simple visual approach using diagrams, infographics, and photographs.
+
+A handy two-book set that uniquely combines related technologies
+Highly visual format and accessible language makes these books highly effective learning tools
+Perfect for beginning web designers and front-end developers
+
+ISBN: 1118907442
+
+
+Price: 31.80
+
+
+Publish Date: July 8, 2014

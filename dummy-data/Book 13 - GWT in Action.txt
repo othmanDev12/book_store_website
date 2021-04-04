@@ -1,0 +1,68 @@
+Book #: 13
+
+Category: Frameworks
+
+Title: GWT in Action
+
+Author: Adam Tacy, Robert Hanson, Jason Essington, Anna Tokke
+
+Description:
+
+
+Summary
+
+GWT in Action, Second Edition is a completely revised edition of the best-selling GWT book. It covers the new features introduced in GWT 2.4 and 2.5, as well as the best development practices that have emerged in the GWT community. It begins with a rapid-fire introduction to GWT and Ajax to get you up to speed with GWT concepts and tools. Then, you'll explore key concepts like managing events, interacting with the server, creating UI components, building your user interface declaratively using UiBinder ... and more.
+
+About the Technology
+
+Google Web Toolkit works on a simple idea. Write your web application in Java, and GWT crosscompiles it into JavaScript. It is open source, supported by Google, and version 2.5 now includes a library of high-quality interface components and productivity tools that make using GWT a snap. The JavaScript it produces is really good.
+
+About this Book
+
+GWT in Action, Second Edition is a revised edition of the best-selling GWT book. In it, you'll explore key concepts like managing events, interacting with the server, and creating UI components. As you move through its engaging examples, you'll absorb the latest thinking in application design and industry-grade best practices, such as implementing MVP, using dependency injection, and code optimization.
+
+Written for Java developers, the book requires no prior knowledge of GWT.
+
+Purchase of the print book comes with an offer of a free PDF, ePub, and Kindle eBook from Manning. Also available is all code from the book.
+
+What's Inside
+
+Covers GWT 2.4 and up
+Efficient use of large data sets
+Optimizing with client bundles, deferred binding, and code splitting
+Using generators and dependency injection
+About the Authors
+
+Adam Tacy and Robert Hanson coauthored the first edition of GWT in Action. Jason Essington is a Java developer and an active contributor to the GWT mailing list and the GWT IRC channel. Anna Tökke is a programmer and solutions architect working with GWT on a daily basis.
+
+Table of Contents
+PART 1 BASICS
+GWT
+Building a GWT application: saying "Hello World!"
+Building a GWT application: enhancing Hello World
+PART 2 NEXT STEPS
+Creating your own widgets
+Using client bundles
+Interface design with UiBinder
+Communicating with GWT-RPC
+Using RequestFactory
+The Editor framework
+Data-presentation (cell) widgets
+Using JSNI—JavaScript Native Interface
+Classic Ajax and HTML forms
+Internationalization, localization, and accessibility
+PART 3 ADVANCED
+Advanced event handling and event busses
+Building MVP-based applications
+Dependency injection
+Deferred binding
+Generators
+Metrics and code splitting
+
+ISBN: 1935182846
+
+
+Price: 27.80
+
+
+Publish Date: February 10, 2013

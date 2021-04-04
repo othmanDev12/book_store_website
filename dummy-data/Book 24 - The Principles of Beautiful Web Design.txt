@@ -1,0 +1,41 @@
+Book #: 24
+
+Category: Web Design
+
+Title: The Principles of Beautiful Web Design
+
+Author: Jason Beaird & James George
+
+Description:
+
+
+The Principles of Beautiful Web Design is the ideal book for people who can build websites, but are seeking the skills and knowledge to visually enhance their sites.
+
+This book will teach you how to:
+
+Understand what makes "good design," from discovery through to implementation
+Use color effectively, develop color schemes, and create a palette
+Create pleasing layouts using grids, the rule of thirds, and symmetry
+Employ textures: lines, points, shapes, volumes, and depth
+Apply typography to make ordinary designs look great
+Choose, edit, and position effective imagery
+And lots more...
+
+
+
+This easy-to-follow guide is illustrated with beautiful, full-color examples, and will lead you through the process of creating great designs from start to finish. 
+
+The third edition of this book has been greatly revised and now features:
+
+Updated and expanded coverage of mobile and responsive web design (RWD)
+A new sample project
+New sections on user interface and icon design
+Common user-interface patterns and resources
+
+ISBN: 0992279445
+
+
+Price: 32.65
+
+
+Publish Date: June 27, 2014

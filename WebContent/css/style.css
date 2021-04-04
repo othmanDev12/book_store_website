@@ -1,0 +1,37 @@
+@charset "ISO-8859-1";
+
+#headermenu {
+	display: flex;
+	justify-content: center;
+}
+
+.element_menu {
+	padding-right: 20px;
+}
+
+a:link {
+	text-decoration: none;
+	color: cornflowerblue;
+}
+
+a:visited {
+	color: indigo;
+}
+
+a:hover {
+	text-decoration: underline;
+	color: blue;
+}
+
+a:active {
+	color: red;
+}
+
+#headermenu a:link {
+	font-size: larger;
+}
+
+.headingpage  {
+	color: darkblue;
+}
+

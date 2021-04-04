@@ -1,0 +1,39 @@
+Book #:11
+
+Category: Frameworks
+
+Title: Play Framework Essentials
+
+Author: Julien Richard-Foy
+
+Description:
+
+An intuitive guide to creating easy-to-build scalable web applications using the Play framework
+About This Book
+Master the complexity of designing a modern and scalable Web application by leveraging the Play framework stack
+The key concepts of the framework are illustrated with both Scala and Java code examples
+A step-by-step guide with code examples based on a sample application built from the ground up, providing the practical skills required to develop Scala- or Java-based applications.
+Who This Book Is For
+This book targets Java and Scala developers who already have some experience in web development and who want to master Play framework quickly and efficiently. This book assumes you have a good level of knowledge and understanding of efficient Java and Scala code.
+
+What You Will Learn
+Set up a unified development environment for both the client-side and server-side code
+Understand the challenges of building a scalable web application and master the solutions provided by Play framework
+Integrate the framework with existing client-side or server-side technologies such as persistence systems
+Harness the reactive programming model to process data streams
+Design robust, maintainable, and testable code
+Be proficient in manipulating JSON data blobs
+Deploy your application on a PaaS platform
+In Detail
+Play is a framework to write web applications using Scala or Java. It provides a productive development environment, allowing you to just hit the "refresh" button in your browser to compile your changes and reload the application. Because of its stateless nature, the framework makes it easy to build applications that scale. Play provides a reactive programming model to harness the event-driven HTTP layer.
+
+This book provides a step-by-step walkthrough of how to build a complete web application following best application development practices using Play framework 2. All aspects specific to web-oriented architectures are covered: the HTTP layer, JSON manipulation, HTML templating, asset compression and concatenation, form submission, content negotiation, security, and HTTP streaming. The book will also provide detailed architectural insights into Play framework to give you a better understanding in order to successfully build scalable applications.
+
+
+ISBN: 9781783982400
+
+
+Price: 29.99
+
+
+Publish Date: September 25, 2014

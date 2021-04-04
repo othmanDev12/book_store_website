@@ -1,0 +1,31 @@
+Book #: 10
+
+Category: 
+
+Title: Just Hibernate: A Lightweight Introduction to the Hibernate Framework
+
+Author: Madhusudhan Konda
+
+Description:
+
+
+If you’re looking for a short, sweet, and simple introduction (or reintroduction) to Hibernate, this is the book you want. Through clear real-world examples, you’ll learn Hibernate and object-relational mapping from the ground up, starting with the basics. Then you’ll dive into the framework’s moving parts to understand how they work in action.
+
+Storing Java objects in relational databases is usually a challenging and complex task for any Java developer, experienced or not. This book, like others in the Just series, delivers a concise, example-driven tutorial for Java beginners. You’ll gain enough knowledge and confidence to start working on real-world projects with Hibernate.
+
+Compare how JDBC and Hibernate work with object persistence
+Learn how annotations are used to create Hibernate applications
+Understand how to persist and retrieve Java data structures
+Focus on the fundamentals of associations and their mappings
+Delve into advanced concepts such as caching, inheritance, and types
+Walk through the Hibernate Query Language API, with examples
+Develop Java Persistence API applications, using Hibernate as the provider
+Work hands-on with code snippets to understand the technology
+
+ISBN: 1449334377
+
+
+Price: 29.99
+
+
+Publish Date: June 22, 2014

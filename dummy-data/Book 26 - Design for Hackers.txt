@@ -1,0 +1,28 @@
+Book #: 26
+
+Category: Web Design
+
+Title: Design for Hackers
+
+Author: David Kadavy
+
+Description:
+
+The smash hit web design book that debuted at #18 on Amazon.
+
+Web design isn't just about knowing HTML, CSS, and JavaScript. When it comes to web design for developers or web design for programmers, you need to know design principles to make beautiful and engaging interfaces.
+
+Hackers are able to accomplish so much in so little time because they come from a community that's built upon sharing knowledge. When it comes to programming, they can learn whatever they need to learn by reading manuals, or simply typing in a Google search. But learning design isn't so simple.
+
+Many design books try to teach design through lists of "do's" and "don'ts." But hackers know you need a deeper understanding of something to really do it well. Design for Hackers takes apart design by "reverse-engineering" Impressionist painting, Renaissance sculpture, the Mac OS X Aqua interface, Twitter's web interface, and much more. You'll learn about color theory, typography, proportions, and design principles. This theoretical advice is mixed with concrete, actionable advice such as suggestions for color scheme tools, and a chart of "all of the fonts you'll ever need."
+
+Whether you're doing interaction design, user interface design, user experience design, iOS/Android mobile design, or good old-fashioned "web design," by the end of the book, you'll be seeing design through new eyes.
+
+
+ISBN: 9781119998952
+
+
+Price: 35.99
+
+
+Publish Date: August 29, 2011

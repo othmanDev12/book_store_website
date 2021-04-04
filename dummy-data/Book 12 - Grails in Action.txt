@@ -1,0 +1,72 @@
+Book #: 12
+
+Category: Frameworks
+
+Title: Grails in Action 
+
+Author: Peter Ledbrook 
+
+Description:
+
+Summary
+
+Grails in Action, Second Edition is a comprehensive introduction to Grails 2 focused on making you super-productive fast. In this totally revised new edition, you'll master Grails 2.3 core skills as you apply TDD techniques to developing a full-scale Twitter clone. Along the way you'll learn the latest single-page web app UI techniques, work with NoSQL backends, integrate with enterprise messaging, and implement a complete RESTful API for your services.
+
+Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications.
+
+About the Technology
+
+It may be time for you to stop reconfiguring, rewriting, and recompiling your Java web apps. Grails, a Groovy-powered web framework, hides all that busy work so you can concentrate on what your applications do, not how they're built. In addition to its famously intuitive dev environment and seamless integration with Spring and Hibernate, the new Grails 2.3 adds improved REST support, better protection against attacks from the web, and better dependency resolution.
+
+About the Book
+
+Grails in Action, Second Edition is a comprehensive introduction to Grails 2. In this totally revised edition you'll master Grails as you apply TDD techniques to a full-scale example (a Twitter clone). Along the way you'll learn single-page web app techniques, work with NoSQL back ends, integrate with enterprise messaging, implement a RESTful API ... and more.
+
+No Java or Groovy knowledge is required. Some web development and OOP experience is helpful.
+
+What's Inside
+
+Covers Grails 2.3 from the ground up
+Agile delivery and testing using Spock
+How to use and manage plugins
+Tips and tricks from the trenches
+About the Authors
+
+There's no substitute for experience: Glen Smith and Peter Ledbrook have been fixtures in the Grails community, contributing code, blogging, and speaking at conferences worldwide, since Grails 0.2.
+
+Table of Contents
+
+PART 1 INTRODUCING GRAILS
+Grails in a hurry
+The Groovy essentials
+PART 2 CORE GRAILS
+Modeling the domain 63
+Creating the initial UI
+Retrieving the data you need
+Controlling application flow
+Services and data binding
+Developing tasty forms, views, and layouts
+PART 3 EVERYDAY GRAILS
+Building reliable applications
+Using plugins: just add water
+Protecting your application
+Exposing your app to other programs
+Single-page web applications (and other UI stuff)
+Understanding Spring and transactions
+PART 4 ADVANCED GRAILS
+Understanding events, messaging, and scheduling
+NoSQL and Grails
+Beyond compile, test, run
+Grails in the cloud
+BONUS ONLINE CHAPTERS
+Advanced GORM kung fu
+Developing plugins
+
+
+ISBN: 1617290963
+
+
+Price:  46.44
+
+
+Publish Date: July 24, 2014

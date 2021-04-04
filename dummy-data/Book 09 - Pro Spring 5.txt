@@ -1,0 +1,39 @@
+Book #: 09
+
+Category: 
+
+Title: Pro Spring 5: An In-Depth Guide to the Spring Framework and Its Tools
+
+Author: Iuliana Cosmina, Rob Harrop, Chris Schaefer, Clarence Ho 
+
+Description:
+
+Master Spring basics and core topics, and share the authors’ insights and real–world experiences with remoting, Hibernate, and EJB. Beyond the basics, you'll learn how to leverage the Spring Framework to build the various tiers and parts of an enterprise Java application: transactions, web and presentation tiers, deployment, and much more. A full sample application allows you to apply many of the technologies and techniques covered in Pro Spring 5 and see how they work together.
+
+This book updates the perennial bestseller with the latest that the new Spring Framework 5 has to offer. Now in its fifth edition, this popular title is by far the most comprehensive and definitive treatment of Spring available. It covers the new functional web framework and interoperability with Java 9.
+
+After reading this definitive book, you'll be armed with the power of Spring to build complex Spring applications, top to bottom.
+
+The agile, lightweight, open-source Spring Framework
+
+continues to be the de facto leading enterprise Java application development framework for today's Java programmers and developers. It works with other leading open-source, agile, and lightweight Java technologies such as Hibernate, Groovy, MyBatis, and more. Spring now works with Java EE and JPA 2 as well.
+What You'll Learn
+
+Discover what’s new in Spring Framework 5
+Use the Spring Framework with Java 9
+Master data access and transactions 
+Work with the new functional web framework 
+Create microservices and other web services 
+Who This Book Is For
+
+Experienced Java and enterprise Java developers and programmers. Some experience with Spring highly recommended.  
+
+
+
+ISBN: 9781484228074
+
+
+Price: 33.99
+
+
+Publish Date: October 17, 2017
